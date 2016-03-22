@@ -30,7 +30,7 @@ body textarea:required:valid {
 	left: 0;
 	top: 0;
 	width: 50px;
-	height: 99%;
+	height: 100%;
 	z-index: 10;
 	color: #fff;
 	overflow-x: hidden;
