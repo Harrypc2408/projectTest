@@ -93,7 +93,7 @@ body textarea:required:valid {
 
 .asideContent{
 	position: absolute;
-	top: 51px;
+	top: 50px;
 	width: 100%;
 }
 .asideContent nav {
