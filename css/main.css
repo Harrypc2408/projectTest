@@ -22,7 +22,7 @@ body textarea:required:valid {
 
 .hidden {
 	display: none; 
-}
+} 
 
 .leftSide {
 	background-color: #111;
@@ -93,7 +93,7 @@ body textarea:required:valid {
 
 .asideContent{
 	position: absolute;
-	top: 50px;
+	top: 51px;
 	width: 100%;
 }
 .asideContent nav {
